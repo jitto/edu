@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Provenance information for rabbitmq Chainguard Image"
 date: 2022-11-01T11:07:52+02:00
-lastmod: 2024-06-05 00:36:13
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -29,7 +29,7 @@ Attestations are provided per image build, so you'll need to specify the correct
 | Registry                     | Tags                    |
 |------------------------------|-------------------------|
 | `cgr.dev/chainguard`         | latest                  |
-| `cgr.dev/chainguard-private` | 3, 3.13, 3.13.2, latest |
+| `cgr.dev/chainguard-private` | 3, 3.13, 3.13.3, latest |
 
 
 - `cgr.dev/chainguard` - the Public Registry contains our **Developer Images**, which typically comprise the `latest*` versions of an image.

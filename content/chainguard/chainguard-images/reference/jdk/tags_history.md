@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the jdk Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-07 00:46:50
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -37,6 +37,8 @@ The Private/Dedicated Registry contains our **Production Images**, which include
 
 | Tag (s)                                                                            | Last Changed | Digest                                                                    |
 |------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|
+|  `openjdk-8.412.08` `openjdk-8.412` `openjdk-8`                                    | June 7th     | `sha256:d6a12adb91421b064f184601558ad20ba76b83f100a7994b567ef8c10a217079` |
+|  `openjdk-8.412.08-dev` `openjdk-8.412-dev` `openjdk-8-dev`                        | June 7th     | `sha256:b05827412e1c66b6bb9c1ba693fc5f8acc0125ff4f4b0f1088133a16ff8c0792` |
 |  `openjdk-22.0-dev` `latest-dev` `openjdk-22.0.1-dev` `openjdk-22-dev`             | June 6th     | `sha256:1cb06657cead4fdf8ee4cec01c58ba6048e7f6ab8771cdf43a6e134654407173` |
 |  `openjdk-22.0.1` `latest` `openjdk-22.0` `openjdk-22`                             | June 6th     | `sha256:35de3a19a2982e97ac3db2895c7debe6ec73085a4c1debae825704ae0ce75bfa` |
 |  `openjdk-14.0` `openjdk-14` `openjdk-14.0.2` `openjdk-14.0.2.12`                  | June 6th     | `sha256:693e76416d0e6dc4287d5f1ee2f97a1c7444d471de58c929111c3ed91881a556` |
@@ -46,8 +48,6 @@ The Private/Dedicated Registry contains our **Production Images**, which include
 |  `openjdk-16.0` `openjdk-16.0.2.7` `openjdk-16.0.2` `openjdk-16`                   | June 6th     | `sha256:abfae615f65e688fec931500f449c13add0df3c5b07e35190bd922cae5993a42` |
 |  `openjdk-15.0.10-dev` `openjdk-15.0.10.5-dev` `openjdk-15.0-dev` `openjdk-15-dev` | June 6th     | `sha256:c3becbf3ef13374baa2eab8e603dc0f61b6666653be57f8776a1cdf05341d0d2` |
 |  `openjdk-21.0-dev` `openjdk-21-dev` `openjdk-21.0.3-dev`                          | June 5th     | `sha256:c7cd60c131e8b8d845e97ae21374d5462cf70f05d4cef688580cf863af8a3b2f` |
-|  `openjdk-8.412-dev` `openjdk-8-dev` `openjdk-8.412.08-dev`                        | June 5th     | `sha256:dddde9c1586002525cf157dc8c72ed876270c39c71c06c732be2ab9e705830a4` |
-|  `openjdk-8.412` `openjdk-8` `openjdk-8.412.08`                                    | June 5th     | `sha256:5566e209c1f461bd308cfdaaf5a19fa9a0e539c72cd7f053896c3f5d9ef829ba` |
 |  `openjdk-11.0.23` `openjdk-11.0` `openjdk-11`                                     | June 5th     | `sha256:4cb2b13c5f6c45c34d6af0235ccabd401154d76a07721a7f7258d9ae44804964` |
 |  `openjdk-17.0.11` `openjdk-17.0` `openjdk-17`                                     | June 5th     | `sha256:523f4faffa753f57f83ceca057a745e7209a04bbe5b1afe966ae163c25cd2ffc` |
 |  `openjdk-17-dev` `openjdk-17.0.11-dev` `openjdk-17.0-dev`                         | June 5th     | `sha256:1b6cb0ba15f1be28b774a629256f9d76157da6e259ec895118b7f8fed7bfad65` |

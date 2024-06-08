@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the neuvector-enforcer Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-06 00:48:16
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -28,8 +28,8 @@ The Public Registry contains our **Developer Images**, which typically comprise 
 
 | Tag (s)       | Last Changed | Digest                                                                    |
 |---------------|--------------|---------------------------------------------------------------------------|
-|  `latest`     | June 5th     | `sha256:ceb035fe379701b1bae778c84b0aeefc5f8f45bf703509a785786a5c42008cb0` |
-|  `latest-dev` | June 5th     | `sha256:ae8d046b837607687a839b2799858875ac518313644f07d7134eb3f132b6bbfc` |
+|  `latest-dev` | June 7th     | `sha256:a3ea20c326da34beed881e21254f3069f5980423d4eb21107a24333dc6545165` |
+|  `latest`     | June 7th     | `sha256:197d9e753cff2420448be3a964e26b15852be9277335deab83e26da731f7ff8e` |
 
 
 ### Private/Dedicated Registry

@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the harbor-db Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-06 00:48:16
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -38,5 +38,4 @@ The Private/Dedicated Registry contains our **Production Images**, which include
 |  `2.9-dev` `2-dev` `2.9.4-dev` `latest-dev` | June 5th     | `sha256:d72e0dddd9339164cd4fd1f5c395487c709c5b2874a39d44887550a0a6433fc3` |
 |  `2.10-dev` `2.10.2-dev`                    | June 5th     | `sha256:710c063684daeccd146c200ab701be7ecbda369b637744ead91d06bff526131e` |
 |  `2.8.6-dev` `2.8-dev`                      | June 1st     | `sha256:b9811f96f0050861e095bfeaf188307afc76c89b462d685488823bc78c83b300` |
-|  `2.8.6` `2.8`                              | May 31st     | `sha256:69e8abaf99288cdc7ed47a6610da557defa745cfb498520d8575087b1680356c` |
 

@@ -3,8 +3,8 @@ title: "Provenance Information for nemo Images"
 type: "article"
 unlisted: true
 description: "Provenance information for nemo Chainguard Image"
-date: 2024-03-05 17:06:05
-lastmod: 2024-03-05 17:06:05
+date: 2022-11-01T11:07:52+02:00
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -28,7 +28,7 @@ Attestations are provided per image build, so you'll need to specify the correct
 
 | Registry                     | Tags                                                             |
 |------------------------------|------------------------------------------------------------------|
-| `cgr.dev/chainguard`         | latest, latest-dev                                               |
+| `cgr.dev/chainguard`         | No public tags are available for this image.                     |
 | `cgr.dev/chainguard-private` | 1, 1-dev, 1.23, 1.23-dev, 1.23.0, 1.23.0-dev, latest, latest-dev |
 
 

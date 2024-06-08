@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the kubeflow-pipelines-cache-deployer Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-07 00:46:50
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -28,8 +28,8 @@ The Public Registry contains our **Developer Images**, which typically comprise 
 
 | Tag (s)       | Last Changed | Digest                                                                    |
 |---------------|--------------|---------------------------------------------------------------------------|
-|  `latest-dev` | June 6th     | `sha256:575db65dc6d32b7aa94e2a6cec90c32097f9381fde409e42a6af1c36755eb124` |
-|  `latest`     | June 6th     | `sha256:b2633d3f51ebf74dec19ab4d0f19134b857f6cc1d751ac7965f69c9409a3f158` |
+|  `latest`     | June 7th     | `sha256:bf850b2a853f2d493f9d99bd644051e7a3020d854f8ea89327617ac2e4e2d8a6` |
+|  `latest-dev` | June 7th     | `sha256:f9f7eb7cf259ec43a6cb20edc609458db4d3e70b0b65475e58e8ef8cfb81dbca` |
 
 
 ### Private/Dedicated Registry
@@ -37,6 +37,6 @@ The Private/Dedicated Registry contains our **Production Images**, which include
 
 | Tag (s)                                     | Last Changed | Digest                                                                    |
 |---------------------------------------------|--------------|---------------------------------------------------------------------------|
-|  `2.2.0-dev` `2.2-dev` `latest-dev` `2-dev` | June 6th     | `sha256:3f6a363411d3c45750c8727a573fa7724bb11127f28f860412c85cf63180e4be` |
-|  `2` `2.2` `2.2.0` `latest`                 | June 6th     | `sha256:4847a7670e3f2d5729a516886a5ab0ce5a2d138e9527289e2c0fa7682c9932a5` |
+|  `latest-dev` `2.2.0-dev` `2-dev` `2.2-dev` | June 7th     | `sha256:45eb6f6eaed619bde688707cdde8f3422be81e0495fad850cdc3891652b5a12a` |
+|  `latest` `2.2` `2` `2.2.0`                 | June 7th     | `sha256:7643236aa5e81dcc497eba4311b9a5d90e6aa2ad2210d40cb155637ea1a9909b` |
 

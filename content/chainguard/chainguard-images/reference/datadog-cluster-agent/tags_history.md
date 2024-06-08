@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the datadog-cluster-agent Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-07 00:46:50
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -35,9 +35,8 @@ The Public Registry contains our **Developer Images**, which typically comprise 
 ### Private/Dedicated Registry
 The Private/Dedicated Registry contains our **Production Images**, which include all versioned tags of an image and special images that are not available in the public registry (including FIPS images and other custom builds).
 
-| Tag (s)                          | Last Changed | Digest                                                                    |
-|----------------------------------|--------------|---------------------------------------------------------------------------|
-|  `7.54` `7` `7.54.0` `latest`    | June 6th     | `sha256:315798bd6452e337b352fff6e2c0a12ee0e2e432fcc7972e35cf1da8fad7ed35` |
-|  `7-dev` `7.54-dev` `latest-dev` | June 6th     | `sha256:3cdd11bdae07fe6ca9b4edaf1c348504405463438c98c5b8fc9017a83f1a1b11` |
-|  `7.54.0-dev`                    | June 6th     | `sha256:c33a2292b6439ada5d4f3fc5951e9f7963a16dc2459a9bcb35e7feb4f340e5ea` |
+| Tag (s)                                       | Last Changed | Digest                                                                    |
+|-----------------------------------------------|--------------|---------------------------------------------------------------------------|
+|  `latest-dev` `7.54-dev` `7.54.0-dev` `7-dev` | June 7th     | `sha256:c33a2292b6439ada5d4f3fc5951e9f7963a16dc2459a9bcb35e7feb4f340e5ea` |
+|  `latest` `7` `7.54.0` `7.54`                 | June 7th     | `sha256:d3f82f146ba064de738cb38790ced6795bdeb1b9b2eac41eb88a814af1f74c02` |
 

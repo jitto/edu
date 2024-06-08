@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the kubeflow-pipelines-viewer-crd-controller Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-07 00:46:50
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -28,8 +28,8 @@ The Public Registry contains our **Developer Images**, which typically comprise 
 
 | Tag (s)       | Last Changed | Digest                                                                    |
 |---------------|--------------|---------------------------------------------------------------------------|
-|  `latest-dev` | June 6th     | `sha256:8d2ad49ccb1d4de2953319d38f541cbfcb27a0639c9423e6ce0f676fe7a6de65` |
-|  `latest`     | June 6th     | `sha256:f749fcbceef8124c82a347861725e87768e4c620590a85f7afdd33f7eb2b8c23` |
+|  `latest`     | June 7th     | `sha256:bb1c77253703b3f636a8713e68dfddd594b7479079f61b4b6ef819c838387c57` |
+|  `latest-dev` | June 7th     | `sha256:28c87507e4e65736b0ccdef75a44a5bb2d015b5fe9a651600f9446adda045ad1` |
 
 
 ### Private/Dedicated Registry
@@ -37,6 +37,6 @@ The Private/Dedicated Registry contains our **Production Images**, which include
 
 | Tag (s)                                     | Last Changed | Digest                                                                    |
 |---------------------------------------------|--------------|---------------------------------------------------------------------------|
-|  `2-dev` `2.2-dev` `latest-dev` `2.2.0-dev` | June 6th     | `sha256:dc6e5bf72ba3bda9ebc8dafd135c3e3d9a58dd947d3caeaeb8d2261f75abb5de` |
-|  `2.2` `2.2.0` `2` `latest`                 | June 6th     | `sha256:7c7eaa076e56b321cb99cd8d47c7f04abf922955391772a2ad34ad46471673c7` |
+|  `latest` `2.2` `2` `2.2.0`                 | June 7th     | `sha256:767e4995c7c0e63656e767b1839a377ebdeeb382aee55ca3f242dc4b804a1258` |
+|  `2.2.0-dev` `2.2-dev` `latest-dev` `2-dev` | June 7th     | `sha256:65bf215a4d6557bea75cbda7ebf015cc1ec6aabd060959115361d11b14b43868` |
 

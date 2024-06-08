@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the kubeflow-pipelines-persistenceagent Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-07 00:46:50
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -28,8 +28,8 @@ The Public Registry contains our **Developer Images**, which typically comprise 
 
 | Tag (s)       | Last Changed | Digest                                                                    |
 |---------------|--------------|---------------------------------------------------------------------------|
-|  `latest-dev` | June 6th     | `sha256:326f263aece880ebe81a0f1f7da2ddeb439180fd9c6fd99a95f539987477711b` |
-|  `latest`     | June 6th     | `sha256:6b8088ad43e4c48e1c3c77dc2ba356829c484aac87653d4d581ac27196f9d058` |
+|  `latest-dev` | June 7th     | `sha256:2e872706dda792f386ba47b113f263ce7412614c312bda6e5ae9e2f2bfbae16a` |
+|  `latest`     | June 7th     | `sha256:2702d53f94b16a782484ac79d45fbf6da4574e04c911176e20daba3e613b8a46` |
 
 
 ### Private/Dedicated Registry
@@ -37,6 +37,6 @@ The Private/Dedicated Registry contains our **Production Images**, which include
 
 | Tag (s)                                     | Last Changed | Digest                                                                    |
 |---------------------------------------------|--------------|---------------------------------------------------------------------------|
-|  `2.2.0-dev` `2-dev` `latest-dev` `2.2-dev` | June 6th     | `sha256:890856fe632aaf45b4baa408a538ae49b0341915426f399c39d223d30f43e117` |
-|  `2.2.0` `2` `latest` `2.2`                 | June 6th     | `sha256:9f170b924a209287656e7710b890a46d3197d914d21daa14f32f56e18fa1450b` |
+|  `2` `latest` `2.2.0` `2.2`                 | June 7th     | `sha256:adc3d0a62f421d2b3d45e845d603de5e424d9067a9140789324ae7baf34b406c` |
+|  `latest-dev` `2.2-dev` `2.2.0-dev` `2-dev` | June 7th     | `sha256:81cf0022c0e122b64f86a55394667a5202f9ab322c6a0e87f11100ba9899ee76` |
 

@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the argocd-repo-server-fips Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-06 00:48:16
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -33,9 +33,11 @@ The Private/Dedicated Registry contains our **Production Images**, which include
 
 | Tag (s)                                        | Last Changed | Digest                                                                    |
 |------------------------------------------------|--------------|---------------------------------------------------------------------------|
+|  `2` `2.10` `latest` `2.10.12`                 | June 7th     | `sha256:d26584b36bda3e7b185868dee8bb6874da69c5e9bc6a2a640b74285aa8ac7790` |
+|  `latest-dev` `2-dev` `2.10-dev` `2.10.12-dev` | June 7th     | `sha256:019b05520826a512b6dc55fdedfbb957a6a35d442a265f6fceee66db75b7975e` |
 |  `2.9.14-dev` `2.9-dev`                        | June 5th     | `sha256:c4fae6e8670ea5d04346090dc1b16c3ecdb76d776bf4a73db3aaf372682013c9` |
-|  `2.10.11` `latest` `2` `2.10`                 | June 5th     | `sha256:3f29838ea334359997aaa59a1e801c33fed5e395d2feee2276a4b59a347616c5` |
-|  `latest-dev` `2.10-dev` `2.10.11-dev` `2-dev` | June 5th     | `sha256:5fb46e97e5820dd8edfec1156ff9d3d800a3c2c454ad9d406a8b44355babc080` |
+|  `2.10.11`                                     | June 5th     | `sha256:3f29838ea334359997aaa59a1e801c33fed5e395d2feee2276a4b59a347616c5` |
+|  `2.10.11-dev`                                 | June 5th     | `sha256:5fb46e97e5820dd8edfec1156ff9d3d800a3c2c454ad9d406a8b44355babc080` |
 |  `2.9.14` `2.9`                                | June 5th     | `sha256:ea613275407a0f05d1172a9e5f31616e5e3fd41317cde85c1f6065c4438fe0b8` |
 |  `2.8-dev` `2.8.20-dev`                        | June 5th     | `sha256:11d88084f384e7120cde3dcbba4984d14fff956e626f01c15a5b14c0d9c87255` |
 |  `2.8` `2.8.20`                                | June 5th     | `sha256:3110108d0b264247d11aed2e76dbfd66b3e07afc2ea0bb17e0d7ef2b2db89491` |

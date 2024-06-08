@@ -4,7 +4,7 @@ type: "article"
 unlisted: true
 description: "Image Tags and History for the git Chainguard Image"
 date: 2023-06-22T11:07:52+02:00
-lastmod: 2024-06-07 00:46:50
+lastmod: 2024-06-08 00:48:55
 draft: false
 tags: ["Reference", "Chainguard Images", "Product"]
 images: []
@@ -28,10 +28,10 @@ The Public Registry contains our **Developer Images**, which typically comprise 
 
 | Tag (s)                  | Last Changed | Digest                                                                    |
 |--------------------------|--------------|---------------------------------------------------------------------------|
-|  `latest`                | June 6th     | `sha256:b4f33aa0e7f4b08ab436bfce19b20628e37dba0e745e3e0812cb39ec9fa487d9` |
-|  `latest-dev`            | June 6th     | `sha256:1abd1ce0a88342e04f783435c79b10a66a54699275d118334e31ef80e19b5701` |
-|  `latest-root`           | June 6th     | `sha256:8f34e973fea2c5bf54ec0b4eb930126b7f1b46a0e0af3e82a72b93f0ffcbd861` |
-|  `latest-root-dev`       | June 6th     | `sha256:634e28434dea092f01e974b14d984f22cdf1bb173769123a8b338837e3e2ff08` |
+|  `latest-root`           | June 7th     | `sha256:0dde5e240871a275a4338f4a21cc8d0cd75e9bb4ace2a95d23b45dd11b327426` |
+|  `latest`                | June 7th     | `sha256:e997fbfd8fffa0d2101dfb827815af52f22c10414e561f600cb6357a327d8eb4` |
+|  `latest-dev`            | June 7th     | `sha256:2432ca10915c0a05df0305589d03baa72c2745af88930ce3107439c82eccc75f` |
+|  `latest-root-dev`       | June 7th     | `sha256:ba6d7344ea902b6b19706690774113f96a92cf84ea0ee5e0cc84526f6c63ea6f` |
 |  `latest-glibc-root`     | June 5th     | `sha256:76602dcf3b1ccd18b84daa7de94cfb78225d3a731f7fa21df314ab06770fc62a` |
 |  `latest-glibc-root-dev` | June 5th     | `sha256:c2512b90d829c9902f1d9a0bbcd8d08b7857d13ffcf04e1852579dc6c83afcdb` |
 |  `latest-glibc-dev`      | June 5th     | `sha256:e3ffb8ddfa4c0e77084502839d8effd3a8945717e570777ee2b2edf6ed16788d` |
